@@ -1,0 +1,1 @@
+DotRaid is a ASP.NET/C# based open source DKP system for online games. It provides dkp, forum, in-site messaging services, etc. It supports SQL Server family, MySQL, and will have a powerful database provider that supports all Database Manage Systems.
